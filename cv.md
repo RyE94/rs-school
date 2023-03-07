@@ -34,3 +34,15 @@ My name is Alexey Matvienko. Sphere of development. I repair computers and set u
 |   2020 - 2021   |  ADMINISTRATOR  |       Cofee          |
 |   2021-2023   |        Finisher of furniture parts      |                Ryzhany                |
 
+---
+
+### 🤖 *CODE EXAMPLE:*
+```js
+function factorial(n) {
+  return (n != 1) ? n * factorial(n - 1) : 1;
+}
+
+alert( factorial(5) ); // 120
+```
+ **rs-school 2023** 
+---
